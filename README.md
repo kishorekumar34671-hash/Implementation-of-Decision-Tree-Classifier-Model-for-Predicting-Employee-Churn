@@ -131,6 +131,8 @@ print(result.head(10))
 ```
 
 ## Output:
+
+
 <img width="1920" height="1080" alt="Screenshot 2026-08-29 184508" src="https://github.com/user-attachments/assets/66dd8c7a-73a3-4ec5-8f56-3444eb7ecfcf" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-29 184532" src="https://github.com/user-attachments/assets/83c5f4b2-4134-4d21-bf52-d51e0d4b0848" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-29 184538" src="https://github.com/user-attachments/assets/19f170a5-843e-4b7f-adbc-50ae6bafc1e7" />
